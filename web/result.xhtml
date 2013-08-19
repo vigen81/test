@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  Created by IntelliJ IDEA.
-  User: Vigen
-  Date: 8/19/13
-  Time: 11:40 PM
--->
+
 <!DOCTYPE html
         PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -17,10 +12,10 @@
 </h:head>
 
 <h:body>
-    <h:outputText value="CONVERSION RESULT"/><br/><br/>
-    <h:outputText value="1 m = 39.37 inches"/><br/><br/>
+    <h:outputText value="#{converterBean.conversionSummary}"/><br/><br/>
+    <h:outputText value="#{converterBean.result}"/><br/><br/>
     <h:form>
-        <h:commandButton action="back" value="Convert another number"/>
+        <h:commandButton action="back" value="#{converterBean.buttonLabel}"/>
     </h:form>
 </h:body>
 
