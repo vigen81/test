@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d0dee08-e888-455d-9cbc-1aaf4cefb4ba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jsf-api.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jsf-impl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jstl-1.1.0.jar" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JSFDemo.iws" />
@@ -13,7 +10,7 @@
     <file path="/web.xml" changelist="9d0dee08-e888-455d-9cbc-1aaf4cefb4ba" time="1376940827672" ignored="false" />
     <file path="/web_path.txt" changelist="9d0dee08-e888-455d-9cbc-1aaf4cefb4ba" time="1376943728332" ignored="false" />
     <file path="/a.txt" changelist="9d0dee08-e888-455d-9cbc-1aaf4cefb4ba" time="1376943768276" ignored="false" />
-    <file path="/Dummy.txt" changelist="9d0dee08-e888-455d-9cbc-1aaf4cefb4ba" time="1376945310337" ignored="false" />
+    <file path="/Dummy.txt" changelist="9d0dee08-e888-455d-9cbc-1aaf4cefb4ba" time="1376945793372" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -466,7 +463,11 @@
       <created>1376945320241</created>
       <updated>1376945320241</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init commit added xml files">
+      <created>1376945810993</created>
+      <updated>1376945810993</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
